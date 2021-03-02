@@ -6,9 +6,9 @@ This is the code for implementation of [5* Knowledge Graph Embeddings with Proje
 The score functions of the following models are inlcuded in this code:
 
 **Models**
-- [x] [CP]
-- [x] [ComplEx]
-- [x] [5*E]
+- [x] CP
+- [x] ComplEx
+- [x] 5*E
 
 
 The starting point is to install kbc framework. For which you need to create a conda environment with pytorch cython and scikit-learn :
