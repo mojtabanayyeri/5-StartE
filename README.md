@@ -50,6 +50,5 @@ Adagrad --learning_rate lr --batch_size batchSize --regularizer N3 --reg regular
 Existing state of the art KGE models namely TransE, RotatE, ComplEx and QuatE cover only one or two transformation types among translation, rotation and homothety.
 
 
-
 ## License
 kbc is CC-BY-NC licensed, as found in the LICENSE file
