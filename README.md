@@ -117,4 +117,4 @@ Batch Size : 100 (1000 for rank 8)
 
 
 ## License
-kbc is CC-BY-NC licensed, as found in the LICENSE file.
+kbc is CC-BY-NC licensed, as found in the LICENSE file
