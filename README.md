@@ -51,6 +51,10 @@ Existing state of the art KGE models namely TransE, RotatE, ComplEx and QuatE co
 
 ![alt text](https://github.com/mojtabanayyeri/5-StartE/blob/5-StarE/img/OtherTransfType.png)
 
+<img src="https://github.com/mojtabanayyeri/5-StartE/blob/5-StarE/img/OtherTransfType.png" alt="Your image title" width="250"/>
+
+
+
 
 ## License
 kbc is CC-BY-NC licensed, as found in the LICENSE file
