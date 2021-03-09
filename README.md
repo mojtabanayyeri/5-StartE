@@ -81,9 +81,7 @@ Existing state of the art KGE models namely TransE, RotatE, ComplEx and QuatE co
 </p>
 
 
-<div align="center">
-  <a href="https://www.youtube.com/embed/TP0MKNi7Q7w"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
+[![Everything Is AWESOME](https://www.youtube.com/embed/TP0MKNi7Q7w)](https://www.youtube.com/embed/TP0MKNi7Q7w "Everything Is AWESOME")
 
 
 
