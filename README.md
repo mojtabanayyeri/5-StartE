@@ -80,7 +80,11 @@ Existing state of the art KGE models namely TransE, RotatE, ComplEx and QuatE co
 <img src="https://github.com/mojtabanayyeri/5-StartE/blob/5-StarE/img/relation2.png" alt="Transformation of Exsiting KGE Models." width="500"/>
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TP0MKNi7Q7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div align="center">
+  <a href="https://www.youtube.com/embed/TP0MKNi7Q7w"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
 
 
 ## License
