@@ -55,6 +55,22 @@ Existing state of the art KGE models namely TransE, RotatE, ComplEx and QuatE co
 </p>
 
 
+<p align="center">
+<img src="https://github.com/mojtabanayyeri/5-StartE/blob/5-StarE/img/default.png" alt="Transformation of Exsiting KGE Models." width="500"/>
+</p>
+
+
+<p align="center">
+<img src="https://github.com/mojtabanayyeri/5-StartE/blob/5-StarE/img/entities.png" alt="Transformation of Exsiting KGE Models." width="500"/>
+</p>
+
+
+
+<p align="center">
+<img src="https://github.com/mojtabanayyeri/5-StartE/blob/5-StarE/img/relation1.png" alt="Transformation of Exsiting KGE Models." width="500"/>
+</p>
+
+
 
 ## License
 kbc is CC-BY-NC licensed, as found in the LICENSE file
