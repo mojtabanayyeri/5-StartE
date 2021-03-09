@@ -82,12 +82,7 @@ Existing state of the art KGE models namely TransE, RotatE, ComplEx and QuatE co
 
 
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/channel/UC5KpbTjlznF9IgOhyIo-7pg" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TP0MKNi7Q7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## License
